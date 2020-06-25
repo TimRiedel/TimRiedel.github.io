@@ -8,3 +8,5 @@ Over the course of the series, Uhtred, a Pagan, has become increasingly complex 
 * Warlord
 * Strong
 * Loyal
+
+> You should always plan your battles form the enemy's point of view.
